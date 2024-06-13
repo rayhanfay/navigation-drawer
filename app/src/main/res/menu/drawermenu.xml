@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard"/>
+    <item
+        android:id="@+id/nav_event"
+        android:icon="@drawable/event"
+        android:title="Event"/>
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/search"
+        android:title="Search"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/settings"
+        android:title="Setting"/>
+    <item
+        android:id="@+id/nav_activity"
+        android:icon="@drawable/activity"
+        android:title="Activity"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Logout"/>
+</menu>
